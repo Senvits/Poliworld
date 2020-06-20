@@ -1,0 +1,84 @@
+*{transition:all 0.3s ease-in-out;}
+
+.container{
+  clear:both;
+  overflow:auto;
+  background-color: cornflowerblue;
+}
+
+nav{float:right;}
+
+.logo img{float:left;}
+
+ul li{
+  display: inline-block; padding:10px;
+  font-size:20px;
+  font-family: 'Quicksand', sans-serif;
+  padding-top: 15px;
+  color: white;
+  
+  
+}
+
+ul li:hover{
+  color:rgb(145, 242, 255);
+  
+}
+.mySlides {display:none;
+  margin: auto;
+ 
+
+
+}
+
+
+.article {
+  
+
+
+	text-align: center;
+	background-color: rgb(216, 216, 216);
+	margin: auto;
+	max-width: 90%;
+  box-sizing: border-box;
+  font-size:2vw;
+  font-family: 'Quicksand', sans-serif;
+}
+.maintext
+{
+background-color:cornflowerblue ;
+text-align: left;
+height: 6vw;
+width: 100%;
+font-size:2vw;
+font-family: 'Quicksand', sans-serif;
+
+
+}
+
+.title
+{
+background-color:cornflowerblue ;
+text-align: left;
+height: 6vw;
+width: 100%;
+font-size:4vw;
+font-family: 'Quicksand', sans-serif;
+text-align: center;
+}
+.imgref {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.quote {
+  font-size:1vw;
+  font-family: "Times New Roman", Times, serif;
+
+}
+body{
+
+  
+}
